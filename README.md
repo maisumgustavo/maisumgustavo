@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou o Gustavo Silva, vulgo Presidente Bolinho
 
-<!--
-**PresidenteBolinho/PresidenteBolinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on front-end with Vue
+- 🌱 I’m currently learning Vue.js
+- 💬 Ask me about Vue.js
+- 😄 Pronouns: Ele/Dele Him/his
+- ⚡ Fun fact: Eu quero fazer um sistema que simule um pais um dia.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/PresidenteBolinho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=presidentebolinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=presidentebolinho&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+![Snake animation](https://github.com/presidentebolinho/presidentebolinho/blob/output/github-contribution-grid-snake.svg)

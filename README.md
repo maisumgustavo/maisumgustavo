@@ -1,8 +1,7 @@
 ### Olá, eu sou o Gustavo Silva, vulgo Presidente Bolinho
 
-- 🔭 I’m currently working on front-end with Vue
-- 🌱 I’m currently learning Vue.js
-- 💬 Ask me about Vue.js
+- 🌱 I’m currently learning GameDev with Lua
+- 💬 Ask me about Vue.js, Lua, Rust
 - 😄 Pronouns: Ele/Dele Him/his
 - ⚡ Fun fact: Eu quero fazer um sistema que simule um pais um dia.
 

@@ -1,14 +1,27 @@
-### Olá, eu sou o Gustavo Silva, vulgo Presidente Bolinho
+# Olá, eu sou o Gustavo Silva
+Particularmente, sou apenas mais um Gustavo no mundo, mas com objetivos que acredito que as outras pessoas não tem no momento.
+Estou pronto para encarar o mundo, e mesmo que eu não esteja de fato, darei o meu máximo para vencer os desafios, seguindo os pontos abaixo:
 
-- 🌱 I’m currently learning GameDev with Lua
-- 💬 Ask me about Vue.js, Lua, Rust
-- 😄 Pronouns: Ele/Dele Him/his
-- ⚡ Fun fact: Eu quero fazer um sistema que simule um pais um dia.
+## Missão
+Disponibilizar soluções que sejam capazes de resolver os problemas do mundo físico e digital.
+
+## Visão
+Lançar no mercado uma aplicação médica;
+
+## Stacks
+### Em desenvolvimento
+[] Rust
+[] Flutter
+[] Archimate
+
+## Projetos
+- Em produção
+
 
 <div align="center">
   <a href="https://github.com/PresidenteBolinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=presidentebolinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=presidentebolinho&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maisumgustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisumgustavo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ![Snake animation](https://github.com/presidentebolinho/presidentebolinho/blob/output/github-contribution-grid-snake.svg)
